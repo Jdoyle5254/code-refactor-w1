@@ -5,7 +5,7 @@ Weekk One BCS project: Code Refactor
 Project is designed to reflect a more accessible Website utilizing Semantic HTML and cleaner CSS, also using accessible alt atributes.  This allows for a screen reader to easily read the site.   
 
 ## Installation
-To Install locally from Git Hub repository, click CODE box, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   ONce there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command code .   This will take you to VS Code and you will be in the repository on your local machine. 
+To install locally from Git Hub repository, click CODE box in the repository, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   Once there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command "code ."   This will take you to VS Code and you will be in the repository on your local machine. 
 
 ## USAGE 
 You can navigate the site by clicking the links on the navigation bar.  
