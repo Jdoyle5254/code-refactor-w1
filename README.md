@@ -19,9 +19,7 @@ When you click the Seach Engine Optimization it will take you to this box:
 
 
 When you click the Online Reputation Management Link it will tak you to this box: 
- 
- 
- 
+![Online Rep](https://user-images.githubusercontent.com/69594945/95001252-d068f880-058d-11eb-81e6-4474ed0a2f1e.PNG)
  
  When you click the Social Media Marketing Link it will take you to this box:
  ![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
