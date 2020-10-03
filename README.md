@@ -23,7 +23,7 @@ When you click the Social Media Marketing Link it will take you to this box:
 ![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
 
 ## Credits
-The basic page layout was provided to us already set up though the BootCamp.   
+The basic page layout and corresponding CSS page was provided to us already set up though the BootCamp.   Code was not altered but merely enhanced by me.  
 
 ## Resources
 I had debated about using the alt tag for some of the images, as they did not seem to fit.   I opted for the Alt null for the Aside, as I did not feel the images enhanced the page and were more decor.  I used this site as a reference for that decision. 
