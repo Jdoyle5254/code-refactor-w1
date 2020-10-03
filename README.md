@@ -10,7 +10,7 @@ To Install locally from Git Hub repository, click CODE box, select SSH and copy 
 
 ## USAGE 
 You can navigate the site by clicking the links on the navigation bar.  
-
+ 
 
 
 
