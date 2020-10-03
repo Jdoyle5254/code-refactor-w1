@@ -11,6 +11,14 @@ To Install locally from Git Hub repository, click CODE box, select SSH and copy 
 ## USAGE 
 You can navigate the site by clicking the links on the navigation bar.  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ ![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
+
 
 
 
