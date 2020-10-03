@@ -10,13 +10,20 @@ To Install locally from Git Hub repository, click CODE box, select SSH and copy 
 
 ## USAGE 
 You can navigate the site by clicking the links on the navigation bar.  
+[
+![Nav Bar ](https://user-images.githubusercontent.com/69594945/95001160-f510a080-058c-11eb-8ecb-4d0d82bb1700.PNG)
+](url)
+
+When you click the Seach Engine Optimization it will take you to this box: 
+
+
+
+When you click the Online Reputation Management Link it will tak you to this box: 
  
  
  
  
- 
- 
- 
+ When you click the Social Media Marketing Link it will take you to this box:
  ![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
 
 
@@ -26,9 +33,12 @@ You can navigate the site by clicking the links on the navigation bar.
 
 
 ## Resources
-
-https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
+I had debated about using the alt tag for some of the images, as they did not seem to fit.   I opted for the Alt null for the Aside, as I did not feel the images enhanced the page and were more decor.   
 https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices
+
+I found this information interesting, since the image was on the CSS page and not on the HTML page.  Moving the image information could impact the page layout.    
+https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
+
 
 ## License
 
