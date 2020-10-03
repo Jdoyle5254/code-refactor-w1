@@ -4,7 +4,6 @@ Weekk One BCS project: Code Refactor
 ## Description
 Project is designed to reflect a more accessible Website utilizing Semantic HTML and cleaner CSS, also using accessible alt atributes.  This allows for a screen reader to easily read the site.   
 
-
 ## Installation
 To Install locally from Git Hub repository, click CODE box, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   ONce there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command code .   This will take you to VS Code and you will be in the repository on your local machine. 
 
@@ -15,26 +14,22 @@ You can navigate the site by clicking the links on the navigation bar.
 ](url)
 
 When you click the Seach Engine Optimization it will take you to this box: 
-
-
+![SEO box](https://user-images.githubusercontent.com/69594945/95001242-b3ccc080-058d-11eb-9d46-aea7ec8aa4fd.PNG)
 
 When you click the Online Reputation Management Link it will tak you to this box: 
 ![Online Rep](https://user-images.githubusercontent.com/69594945/95001252-d068f880-058d-11eb-81e6-4474ed0a2f1e.PNG)
  
- When you click the Social Media Marketing Link it will take you to this box:
- ![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
-
-
-
+When you click the Social Media Marketing Link it will take you to this box:
+![Social Media](https://user-images.githubusercontent.com/69594945/95001264-e24a9b80-058d-11eb-9aec-1bb4b3db2782.PNG)
 
 ## Credits
-
+The basic page layout was provided to us already set up though the BootCamp.   
 
 ## Resources
-I had debated about using the alt tag for some of the images, as they did not seem to fit.   I opted for the Alt null for the Aside, as I did not feel the images enhanced the page and were more decor.   
+I had debated about using the alt tag for some of the images, as they did not seem to fit.   I opted for the Alt null for the Aside, as I did not feel the images enhanced the page and were more decor.  I used this site as a reference for that decision. 
 https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices
 
-I found this information interesting, since the image was on the CSS page and not on the HTML page.  Moving the image information could impact the page layout.    
+I found this information interesting, since the image was on the CSS page and not on the HTML page.  Moving the image information could impact the page layout.  
 https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html
 
 
