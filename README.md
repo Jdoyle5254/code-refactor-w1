@@ -1,8 +1,8 @@
 # code-refactor-w1
-Weekk One BCS project: Code Refactor 
+Week One BCS project: Code Refactor 
 
 ## Description
-Project is designed to reflect a more accessible Website utilizing Semantic HTML and cleaner CSS, also using accessible alt atributes.  This allows for a screen reader to easily read the site.   
+Project is designed to reflect a more accessible Website utilizing Semantic HTML and cleaner CSS, also using accessible alt atributes.  This allows for a screen reader to easily read the site. Link to site: https://jdoyle5254.github.io/code-refactor-w1/
 
 ## Installation
 To install locally from Git Hub repository, click CODE box in the repository, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   Once there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command "code ."   This will take you to VS Code and you will be in the repository on your local machine. 
